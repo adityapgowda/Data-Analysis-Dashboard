@@ -19,5 +19,6 @@ How do light conditions (daylight vs. darkness) affect the number of accidents a
 - Conducted thorough cleaning to address missing values and inconsistencies, standardizing formats, converting categorical variables to numeric, and creating new attributes such as 'Year' and 'Month'.
 - Used Excel pivot tables to analyze key performance indicators and trends, followed by the development of an interactive dashboard featuring various charts to facilitate dynamic exploration of road safety insights for stakeholders.
 
-##Dashboard
+## Dashboard
+
 ![Road accident project screeenshot](https://github.com/user-attachments/assets/abd1fd48-cef6-4706-9e92-279857063e4c)
